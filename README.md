@@ -36,7 +36,7 @@ I'm a **Data Engineer** at [Mercado Livre](https://www.mercadolivre.com.br/) wit
   </tr>
   <tr>
     <td>Cloud</td>
-    <td>AWS: EC2, S3, EMR, ECR, EKS, RDS, Glue, Lambda, Secrets\nGCP: BigQuery, CloudStorage</td>
+    <td>AWS: EC2, S3, EMR, ECR, EKS, RDS, Glue, Lambda, Secrets | GCP: BigQuery, CloudStorage</td>
   </tr>
   <tr>
     <td>APIs</td>
