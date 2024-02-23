@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/victor--poglioni-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-poglioni-899650179/?locale=en_US)
 
 <!--Introduction -->
-I'm a **Data Engineer** at [Mercado Livre](https://www.mercadolivre.com.br/) with 4 years of experience, currently working in fraud prevention, building and maintaining a data platform that supports machine learning models and fraud evaluation applications, providing batch and real time data for all users.
+I'm a **Data Engineer** with over 4 years of experience building data platforms, solutions and pipelines!
 
 - 🏛️ Bachelor's degree in Computer Engineering by Federal University of São Paulo (UNIFESP)
 - 🐍 Pythonista
