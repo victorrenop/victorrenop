@@ -9,9 +9,7 @@ I'm a **Data Engineer** with over 4 years of experience building data platforms,
 - 🏛️ Bachelor's degree in Computer Engineering by Federal University of São Paulo (UNIFESP)
 - 🐍 Pythonista
 - 🌟 Data Quality advocate
-- 📚 Currently learning Go, Rust and DDD
-- 🧠 I'm looking to expand my knowledge on machine learning and neural networks
-- 🎮 My new hobby is learning Unity and building games for fun
+- 🧠 I'm looking to expand my knowledge on machine learning and LLMs
 
 ---
 
